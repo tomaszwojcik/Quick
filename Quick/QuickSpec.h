@@ -1,4 +1,6 @@
 #import <XCTest/XCTest.h>
+#import "QCKDSL.h"
+#import "QuickConfiguration.h"
 
 /**
  QuickSpec is a base class all specs written in Quick inherit from.
